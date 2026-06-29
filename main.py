@@ -1,7 +1,3 @@
-import os
-os.chdir(r"C:\Users\dodhr\Desktop\R2Q Python\Trade Journal (project - 1)")
-
-
 class Trade:
 
     total_trades = 0
