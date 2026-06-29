@@ -128,7 +128,7 @@ def fetch_trades():
 
 trade_counter = 0
 
-for pair, entry, exit in fetch_trades():    #Not adding 'add trades funct because i already did it here
+for pair, entry, exit in fetch_trades():   
 
     trade_counter += 1
     try:     
@@ -207,7 +207,7 @@ while True:
                 print(f'Trade no: {trade_counter}:- [({pair}), ({entry}), ({exit})] has invalid value/s\n')
                 
              
-        elif choice == '2':    #done with ai
+        elif choice == '2':   
             all_trades = TradeJournal.show_all_trades()
             if not all_trades:
                 print("No trades yet.\n")
