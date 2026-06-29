@@ -1,0 +1,8 @@
+Trade Journal:
+Trade 1: ('Silver', 562, 893)
+Trade 2: ('Gold', 28, 48)
+Trade 3: ('Spx500', 400, 400)
+Trade 4: ('Gold', 560, 128)
+Trade 5: ('Gold', 986, 1348)
+Trade 6: ('Gold', 781, 654)
+Trade 7: ('Spx500', 562, 375)
